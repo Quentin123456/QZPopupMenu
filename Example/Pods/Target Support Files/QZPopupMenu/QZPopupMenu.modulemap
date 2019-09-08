@@ -1,0 +1,6 @@
+framework module QZPopupMenu {
+  umbrella header "QZPopupMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}

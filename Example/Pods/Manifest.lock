@@ -1,0 +1,16 @@
+PODS:
+  - QZPopupMenu (1.0.0)
+
+DEPENDENCIES:
+  - QZPopupMenu (from `../`)
+
+EXTERNAL SOURCES:
+  QZPopupMenu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QZPopupMenu: d2bc640c1a1ed150993bc0109668be228fe81f67
+
+PODFILE CHECKSUM: 3ea4da77e4ebe29241f3f0b6c78e9ac9f98860f6
+
+COCOAPODS: 1.8.0.beta.2

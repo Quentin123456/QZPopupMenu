@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'QZPopupMenu_Example' do
+  pod 'QZPopupMenu', :path => '../'
+
+  target 'QZPopupMenu_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
